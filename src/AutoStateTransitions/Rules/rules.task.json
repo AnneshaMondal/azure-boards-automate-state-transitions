@@ -19,5 +19,12 @@
       "setParentStateTo": "Closed",
       "allChildren": true
     }
+    "ifChildState": "Doing",
+    "notParentStates": ["Doing"],
+    "setParentStateTo": "Doing",
+    "allChildren": true
+    {
+
+    }
   ]
 }
